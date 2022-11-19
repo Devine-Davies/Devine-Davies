@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome 👋
+The mind is a powerful place and what you feed it can affect you in a powerful way.
+
+Personal website
+https://www.devinedavies.co.uk/
+
+🔭 Currently working on:
+https://classermedia.com
+
+👨‍💻 Currently working at:
+HPE as Team Lead
 
 <!--
 **Devine-Davies/Devine-Davies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
