@@ -8,7 +8,7 @@ https://www.devinedavies.co.uk/
 https://classermedia.com
 
 👨‍💻 Currently working at:
-HPE as Team Lead
+Team Lead @ HPE
 
 <!--
 **Devine-Davies/Devine-Davies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
